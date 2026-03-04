@@ -1,6 +1,6 @@
 # Sistema de Inspección de Calidad: Llave de Ajuste 
 
-[cite_start]Este proyecto implementa un sistema de **visión artificial** automatizado para el control de calidad de herramientas industriales, basado en el análisis geométrico y dimensional de la pieza.
+Este proyecto implementa un sistema de **visión artificial** automatizado para el control de calidad de herramientas industriales, basado en el análisis geométrico y dimensional de la pieza.
 
 ## Descripción del Proyecto
 El software procesa imágenes de llaves de ajuste para clasificar cada unidad como **APTA** o **NO APTA**  bajo los siguientes criterios de calidad:
